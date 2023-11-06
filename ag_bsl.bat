@@ -1,0 +1,2 @@
+BSL-Scripter.exe --?
+exit
